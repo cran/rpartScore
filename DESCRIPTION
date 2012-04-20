@@ -1,8 +1,8 @@
 Package: rpartScore
 Type: Package
 Title: Classification trees for ordinal responses
-Version: 0.1.1
-Date: 2012-03-31
+Version: 1.0-0
+Date: 2012-04-20
 Author: Giuliano Galimberti, Gabriele Soffritti, Matteo Di Maso
 Maintainer: Giuliano Galimberti <giuliano.galimberti@unibo.it>
 Depends: R (>= 2.14.2), rpart
@@ -16,6 +16,6 @@ Description: This package contains functions that allow to build
         misclassification rate or on the total misclassification cost.
 License: GPL (>= 2)
 LazyLoad: yes
-Packaged: 2012-03-31 12:41:05 UTC; giuliano.galimberti2
+Packaged: 2012-04-20 16:27:14 UTC; giuliano.galimberti2
 Repository: CRAN
-Date/Publication: 2012-03-31 13:13:44
+Date/Publication: 2012-04-25 09:15:23

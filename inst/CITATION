@@ -1,0 +1,21 @@
+citHeader("To cite rpartScore in publications use:")
+
+citEntry(entry = "Article",
+  title        = "Classification Trees for Ordinal Responses in {R}: The {rpartScore} Package",
+  author       = personList(as.person("Giuliano Galimberti"),
+                   as.person("Gabriele Soffritti"),
+                   as.person("Matteo Di Maso")),
+  journal      = "Journal of Statistical Software",
+  year         = "2012",
+  volume       = "47",
+  number       = "10",
+  pages        = "1--25",
+  url          = "http://www.jstatsoft.org/v47/i10/",
+
+  textVersion  =
+  paste("Giuliano Galimberti, Gabriele Soffritti, Matteo Di Maso (2012).",
+        "Classification Trees for Ordinal Responses in R: The rpartScore Package.",
+        "Journal of Statistical Software, 47(10), 1-25.",
+        "URL http://www.jstatsoft.org/v47/i10/.")
+)
+

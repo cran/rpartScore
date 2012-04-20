@@ -1,4 +1,4 @@
-%\VignetteIndexEntry{User manual}
+%\VignetteIndexEntry{rpartScore}
 \documentclass{article}
 \begin{document}
 \end{document}

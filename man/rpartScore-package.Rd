@@ -14,8 +14,8 @@ Pruning is based on the total misclassification rate or on the total misclassifi
 \tabular{ll}{
 Package: \tab rpartScore\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2011-11-07\cr
+Version: \tab 1.0-0\cr
+Date: \tab 2012-04-20\cr
 License: \tab GPL (>=2)\cr
 LazyLoad: \tab yes\cr
 }
@@ -45,8 +45,9 @@ Maintainer: Giuliano Galimberti <giuliano.galimberti@unibo.it>
 \references{
 Breiman L., Friedman J.H., Olshen R.A., Stone C.J. 1984 \emph{Classification and Regression Trees}. Wadsworth International. 
 
-Galimberti G., Soffritti G., Di Maso M. 2012 Classification trees for ordinal responses in \R: the \code{rpartScore} package. 
-\emph{Journal of Statistical Software}. Submitted. 
+Galimberti G., Soffritti G., Di Maso M. 2012 Classification Trees for Ordinal Responses in \R: The \code{rpartScore} Package. 
+\emph{Journal of Statistical Software}, \bold{47}(10), 1-25.
+URL \url{http://www.jstatsoft.org/v47/i10/}. 
 
 Piccarreta R. 2008 Classication Trees for Ordinal Variables. \emph{Computational Statistics}, \bold{23}, 407-427. 
 
