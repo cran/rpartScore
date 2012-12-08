@@ -1,4 +1,4 @@
-427b61ee0955d2ebd9a34f02256136bd *DESCRIPTION
+7a2b56c89c8f5c008fdb6050da2c448f *DESCRIPTION
 5cf60bec72663beb108fa0b41c153935 *NAMESPACE
 20ad004f3b7f70b80e0a5d0c76f3534b *R/evalMedian.R
 034e0c1b4c693a422db9c0bc503d4306 *R/evalMode.R
@@ -7,13 +7,10 @@
 8a27ee10830593dac2681dfad2cb2491 *R/splitAbs.R
 17059efd128f9583f1fc190a67c5a2d0 *R/splitQuad.R
 a5e587bb80a4717012f1f176e14fd20a *inst/CITATION
-4d84df115cd4c4f02754d34923d87e99 *inst/doc/Thumbs.db
-d60be39d9097a6cd659822060bdddd4b *inst/doc/rpartScore.Rnw
-3d4f2b40d0779d4e6731f6d31cfbb8af *inst/doc/rpartScore.pdf
 cdd55487704b6ae4930730db4c54ceeb *man/evalMedian.Rd
 81b37422160ed985623022571e57c95c *man/evalMode.Rd
 81f75e5bca3f6ae3f116f1dbc9c27833 *man/initScore.Rd
-76840fb1c03401b862c1698291703aa5 *man/rpartScore-package.Rd
-909bcbeea0dc4c2e7471775160a27831 *man/rpartScore.Rd
+b6f057d8d5868c6e047f780e822fc334 *man/rpartScore-package.Rd
+eeaff096e44568b65cbe34ad2a71a1bf *man/rpartScore.Rd
 e87b3bdabf5c4cdb615868915f6aa714 *man/splitAbs.Rd
 acbb6df2036da06d858862b4a635ffa4 *man/splitQuad.Rd
